@@ -114,15 +114,7 @@ bash run_rl_swarm.sh
 # NOTE: 
 ## imp its best practice to open new terminal and login your Vps then run this below cmd's
 
-
-# Now Run This cmd
-
-```bash
-npm install -g localtunnel
-lt --port 3000
-```
-
-# If the above command fails, try using Cloudflare Tunnel.
+# Use Cloudflare Tunnel.
 
 ## Allow firewall traffic
 
